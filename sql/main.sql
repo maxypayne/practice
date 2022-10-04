@@ -1,4 +1,3 @@
-SQL
 * SELECT - extracts data from a database
 * UPDATE - updates data in a database
 * DELETE - deletes data from a database
@@ -12,8 +11,7 @@ SQL
 * DROP INDEX - deletes an index
 *
 
-mysql> SOURCE /Users/Your_username/Downloads/sample.sql;
-
+mysql > SOURCE /Users/Your_username/Downloads/sample.sql;
 
 SELECT * FROM employees ORDER BY firstname; => Sort by firstname
 SELECT * FROM employees ORDER BY firstname DESC; SORT BY DESCENDING ORDER
